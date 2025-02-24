@@ -96,8 +96,3 @@ Contributions are welcome! Feel free to fork the repository, create a feature br
 
 ---
 
-## Contact
-For queries or collaboration:
-- **Name**: Aditi Thakur
-- **Email**: aditithakur907@gmail.com
-- **GitHub**: [AditiThakur8](https://github.com/AditiThakur8)
